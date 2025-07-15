@@ -22,4 +22,4 @@ graph LR
     E --> F[(ECR)]
     C --> G[Lambda]
     G --> H[(S3 Bucket)]
-    D --> I[Auto-Scaling Group]
+    D --> I[Auto-Scaling Group]New line added on Tue Jul 15 12:09:15 UTC 2025
