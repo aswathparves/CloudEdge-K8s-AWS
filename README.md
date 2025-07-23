@@ -11,7 +11,10 @@ Deployment of a highly available Flask application on AWS with:
 - **Auto-scaling** (HPA) based on CPU
 - **Serverless** health monitoring (Lambda + S3)
 
+
+
 ## 🏗️ Architecture
+
 ```mermaid
 graph LR
     A[User] --> B[CloudFront CDN]
